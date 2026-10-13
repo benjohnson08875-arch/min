@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://trdesign.icu/:path*",
+      "permanent": true
+    }
+  ]
+}
