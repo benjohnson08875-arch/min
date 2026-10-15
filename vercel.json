@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://trdesign.icu/:path*",
+      "destination": "https://invitereal.icu/:path*",
       "permanent": true
     }
   ]
