@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://invitatingyou.icu/:path*",
+      "destination": "https://neethw.icu/:path*",
       "permanent": true
     }
   ]
