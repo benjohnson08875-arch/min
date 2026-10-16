@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://invitereal.icu/:path*",
+      "destination": "https://invitatingyou.icu/:path*",
       "permanent": true
     }
   ]
