@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://neethw.icu/:path*",
+      "destination": "https://bollinne.icu/:path*",
       "permanent": true
     }
   ]
