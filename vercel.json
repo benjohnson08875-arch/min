@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://bollinne.icu/:path*",
+      "destination": "https://cartere.icu/:path*",
       "permanent": true
     }
   ]
